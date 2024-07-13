@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740.99 101.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #71ccff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #ffa233;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #99f;
+        stroke: #99f;
+        stroke-width: 1.08px;
+      }
+
+      .cls-4 {
+        fill: #00005b;
+      }
+
+      .cls-5 {
+        fill: #71ccff;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-family: Unbounded-SemiBold, Unbounded;
+        font-size: 12px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-4" x="0" width="101.21" height="101.21" rx="11.55" ry="11.55"/>
+      <g>
+        <path class="cls-2" d="m26.98,55.87l-4.52,13.7h-5.82l14.8-43.56h6.79l14.87,43.56h-6.01l-4.65-13.7h-15.45Zm14.28-4.4l-4.27-12.54c-.97-2.84-1.62-5.43-2.26-7.95h-.13c-.65,2.59-1.36,5.24-2.2,7.89l-4.27,12.6h13.12Z"/>
+        <path class="cls-2" d="m61.69,54.97c.13,7.69,5.04,10.86,10.73,10.86,4.07,0,6.53-.71,8.66-1.62l.97,4.07c-2,.91-5.43,1.94-10.41,1.94-9.63,0-15.38-6.33-15.38-15.77s5.56-16.87,14.67-16.87c10.21,0,12.93,8.98,12.93,14.74,0,1.16-.13,2.07-.19,2.65h-21.98Zm16.68-4.07c.06-3.62-1.49-9.24-7.89-9.24-5.75,0-8.27,5.3-8.73,9.24h16.61Z"/>
+      </g>
+    </g>
+    <g id="ae">
+      <polygon class="cls-3" points="740.49 60.87 159.9 60.87 159.9 34.32 740.49 34.32 740.49 46.81 740.49 60.87"/>
+      <polygon class="cls-5" points="677.69 60.87 159.9 60.87 159.9 34.32 677.69 34.32 677.69 46.81 677.69 60.87"/>
+      <polygon class="cls-1" points="740.49 60.87 159.9 60.87 159.9 34.32 740.49 34.32 740.49 46.81 740.49 60.87"/>
+      <text class="cls-6" transform="translate(693.22 51.47)"><tspan x="0" y="0">nice!</tspan></text>
+    </g>
+  </g>
+</svg>

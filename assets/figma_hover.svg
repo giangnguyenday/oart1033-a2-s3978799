@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 741.96 101.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0ace82;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #71ccff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #a259ff;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #ffa233;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #f34e1e;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5, .cls-13 {
+        fill: #fff;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #ff7161;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        fill: #1abcfd;
+      }
+
+      .cls-8 {
+        fill: #71ccff;
+      }
+
+      .cls-13 {
+        font-family: Unbounded-SemiBold, Unbounded;
+        font-size: 12px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect class="cls-5" x="0" y="0" width="101.21" height="101.21" rx="11.55" ry="11.55"/>
+      <g>
+        <path class="cls-4" d="m38.92,15.18h11.68v23.61h-11.68c-6.51,0-11.8-5.29-11.8-11.8h0c0-6.51,5.29-11.8,11.8-11.8Z"/>
+        <path class="cls-6" d="m50.6,15.18h11.68c6.51,0,11.8,5.29,11.8,11.8h0c0,6.51-5.29,11.8-11.8,11.8h-11.68V15.18h0Z"/>
+        <path class="cls-2" d="m38.92,38.79h11.68v23.61h-11.68c-6.51,0-11.8-5.29-11.8-11.8h0c0-6.51,5.29-11.8,11.8-11.8Z"/>
+        <path class="cls-1" d="m38.86,62.42h11.74v11.86c0,6.48-5.26,11.74-11.74,11.74h0c-6.48,0-11.74-5.26-11.74-11.74v-.12c0-6.48,5.26-11.74,11.74-11.74Z"/>
+        <rect class="cls-7" x="50.6" y="38.79" width="23.49" height="23.61" rx="11.74" ry="11.74"/>
+      </g>
+    </g>
+    <g id="figma">
+      <polygon class="cls-9" points="741.46 59.63 160.87 59.63 160.87 33.08 741.46 33.08 741.46 45.57 741.46 59.63"/>
+      <polygon class="cls-3" points="741.46 59.63 160.87 59.63 160.87 33.08 741.46 33.08 741.46 45.57 741.46 59.63"/>
+      <polygon class="cls-9" points="741.46 59.63 160.87 59.63 160.87 33.08 741.46 33.08 741.46 45.57 741.46 59.63"/>
+      <rect class="cls-8" x="160.13" y="33.11" width="283.71" height="26.55"/>
+      <text class="cls-13" transform="translate(504.81 50.13)"><tspan x="0" y="0">could use m</tspan><tspan class="cls-12" x="88.24" y="0">o</tspan><tspan class="cls-17" x="97.62" y="0">r</tspan><tspan class="cls-11" x="103.92" y="0">e </tspan><tspan class="cls-15" x="115.68" y="0">p</tspan><tspan class="cls-16" x="125.35" y="0">r</tspan><tspan class="cls-10" x="131.66" y="0">a</tspan><tspan class="cls-14" x="141.41" y="0">c</tspan><tspan x="150.35" y="0">tice!</tspan></text>
+    </g>
+  </g>
+</svg>
